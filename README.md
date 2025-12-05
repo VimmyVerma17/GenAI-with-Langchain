@@ -106,5 +106,5 @@ GenAI-with-LangChain/
 ```
 
 **Purpose**
-To serve as a structured learning resource and reference guide for building real GenAI applications with LangChain — from fundamentals to advanced agents & tools.
 
+To serve as a structured learning resource and reference guide for building real GenAI applications with LangChain — from fundamentals to advanced agents & tools.
