@@ -1,9 +1,9 @@
-**GenAI with LangChain**
+## GenAI with LangChain
 
 A practical, hands-on repository documenting everything learned and implemented while learning Generative AI using LangChain which includes runnable examples covering prompts, models, structured output, chains, RAG, tools, tool-calling, and agents.
 
 **Repository Structure**
-
+```
 GenAI-with-LangChain/
 │
 │── langchain_models/
@@ -103,8 +103,8 @@ GenAI-with-LangChain/
 │
 └── langchain_agents/
     └── agents.py
+```
 
 **Purpose**
-
 To serve as a structured learning resource and reference guide for building real GenAI applications with LangChain — from fundamentals to advanced agents & tools.
 
